@@ -1,0 +1,5 @@
+1534873519528	Rename resource 'log4j.xml'
+1534873536469	Delete element
+1534874669457	Move 'jdbc.properties' to 'WEB-INF'
+1534878623435	Move 'applicationContext.xml' to 'WEB-INF'
+1534878881980	Delete element

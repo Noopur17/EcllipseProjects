@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536073857780_1" label="rest-jackson-simple" name="rest-jackson-simple">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rest-jackson-simple" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536161169256_2" label="spring-boot-web-application-example" name="spring-boot-web-application-example">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-web-application-example" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536161737440_3" label="rest-cors" name="rest-cors"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536262200745_4" label="spring-rest-demo" name="spring-rest-demo">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-rest-demo" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536326932559_5" label="spring-crm-rest" name="spring-crm-rest"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536591599583_6" label="SpringBootHelloWorld" name="SpringBootHelloWorld">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpringBootHelloWorld" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536676569789_7" label="spring-security-demo" name="spring-security-demo"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536939197852_8" label="soapweather" name="soapweather">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/soapweather" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1534353822446_0" label="Window Working Set" name="Aggregate for window 1534353822445"/>
+</workingSetManager>
